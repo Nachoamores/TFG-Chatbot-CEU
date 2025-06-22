@@ -1,0 +1,246 @@
+[
+  {
+    "pregunta": "¿Cuántos créditos tiene el TFG?",
+    "reformulaciones": [
+      "¿De cuántos créditos es el trabajo final?",
+      "¿Cuántos ECTS suma el TFG?",
+      "Créditos asignados al trabajo fin de grado",
+      "Número de créditos del TFG",
+      "TFG cuántos créditos tiene",
+      "Créditos correspondientes al trabajo fin de grado"
+    ],
+    "respuesta": "El TFG tiene 6 créditos ECTS."
+  },
+  {
+    "pregunta": "¿Cuántos créditos hay que cursar en total para graduarse?",
+    "reformulaciones": [
+      "Total de créditos para obtener el título",
+      "¿Cuántos ECTS necesito para terminar la carrera?",
+      "Créditos necesarios para acabar el grado",
+      "Número total de ECTS para graduarse",
+      "¿Qué cantidad de créditos exige el plan de estudios?",
+      "Carga total de créditos para obtener el título"
+    ],
+    "respuesta": "Para graduarse es necesario superar un total de 240 créditos ECTS."
+  },
+  {
+    "pregunta": "¿Cuándo empieza el periodo de matrícula?",
+    "reformulaciones": [
+      "Inicio del plazo de matrícula",
+      "¿Desde qué fecha puedo matricularme?",
+      "Apertura de la matrícula",
+      "Primer día para realizar la matrícula",
+      "¿En qué fecha se abre el periodo de matrícula?",
+      "¿Cuándo puedo empezar a matricularme?"
+    ],
+    "respuesta": "El periodo de matrícula suele comenzar a principios de julio, en función del calendario académico publicado anualmente."
+  },
+  {
+    "pregunta": "¿Cómo puedo solicitar un certificado académico?",
+    "reformulaciones": [
+      "Pedir certificado de notas",
+      "Solicitar expediente académico oficial",
+      "¿Dónde puedo pedir el certificado de calificaciones?",
+      "Petición de certificado académico",
+      "Trámite para obtener el expediente oficial",
+      "¿Cómo tramito el certificado de estudios?"
+    ],
+    "respuesta": "El certificado académico puede solicitarse a través de la Secretaría Virtual de la universidad o presencialmente en la secretaría del centro."
+  },
+  {
+    "pregunta": "¿Qué sucede si suspendo una asignatura?",
+    "reformulaciones": [
+      "Consecuencias de suspender una asignatura",
+      "¿Qué pasa si no apruebo una materia?",
+      "Suspender una asignatura y convocatorias",
+      "Número de convocatorias tras suspender",
+      "¿Qué ocurre si suspendo?",
+      "Si suspendo una asignatura ¿cuántas oportunidades tengo?"
+    ],
+    "respuesta": "Si suspendes una asignatura, puedes volver a matricularte en la siguiente convocatoria disponible. Existen límites en el número de convocatorias, establecidos por la normativa académica."
+  },
+  {
+    "pregunta": "¿Cuántas asignaturas puedo matricular como máximo por curso?",
+    "reformulaciones": [
+      "Límite de asignaturas por año académico",
+      "Número máximo de materias por curso",
+      "¿Cuántas asignaturas es posible cursar en un año?",
+      "Tope de asignaturas en la matrícula anual",
+      "Máximo de asignaturas permitidas por curso",
+      "Cantidad máxima de créditos por año"
+    ],
+    "respuesta": "El número máximo de asignaturas por curso está limitado por el total de créditos permitido según la carga docente anual establecida en el plan de estudios."
+  },
+  {
+    "pregunta": "¿Cómo puedo solicitar el reconocimiento de créditos?",
+    "reformulaciones": [
+      "Reconocer asignaturas previamente cursadas",
+      "Solicitud de convalidación de créditos",
+      "¿Dónde pido reconocimiento de asignaturas?",
+      "Trámite de reconocimiento académico",
+      "Homologación de créditos en la universidad",
+      "Validación de estudios anteriores"
+    ],
+    "respuesta": "La solicitud de reconocimiento de créditos debe realizarse a través del procedimiento establecido en la Secretaría Virtual, aportando la documentación correspondiente."
+  },
+  {
+    "pregunta": "¿Cuántas convocatorias tengo por asignatura?",
+    "reformulaciones": [
+      "Número de intentos para aprobar una materia",
+      "Límite de oportunidades por asignatura",
+      "¿Cuántas veces puedo presentarme a un examen?",
+      "Convocatorias máximas por materia",
+      "Plazas disponibles para aprobar asignaturas",
+      "Veces que puedo presentarme a la misma asignatura"
+    ],
+    "respuesta": "El número de convocatorias por asignatura está limitado a seis. Superado ese número, es necesario solicitar una convocatoria extraordinaria de gracia."
+  },
+  {
+    "pregunta": "¿Cómo se solicita la revisión de un examen?",
+    "reformulaciones": [
+      "Revisión de calificaciones",
+      "¿Dónde pedir revisión de examen?",
+      "Procedimiento para revisar un examen",
+      "Solicitud de revisión de nota",
+      "Plazos para solicitar revisión de calificación",
+      "Pasos para pedir revisión de examen"
+    ],
+    "respuesta": "La solicitud de revisión de examen debe realizarse en el plazo establecido tras la publicación de las calificaciones, siguiendo el procedimiento publicado por el centro."
+  },
+  {
+    "pregunta": "¿Cómo se gestionan las prácticas externas?",
+    "reformulaciones": [
+      "Tramitación de prácticas externas",
+      "Cómo solicitar prácticas universitarias",
+      "Procedimiento de prácticas académicas",
+      "Inscripción en prácticas externas",
+      "Requisitos para realizar prácticas",
+      "Prácticas curriculares y extracurriculares"
+    ],
+    "respuesta": "La gestión de las prácticas externas se realiza a través de la plataforma de gestión de prácticas de la universidad, donde se publican las ofertas disponibles y se formaliza la inscripción."
+  }  ,
+  {
+    "pregunta": "¿Puedo cambiar de grupo de clase una vez matriculado?",
+    "reformulaciones": [
+      "Cambio de grupo tras matrícula",
+      "Modificar grupo de asignatura",
+      "¿Cómo solicito cambio de grupo?",
+      "Procedimiento para cambiar de grupo",
+      "Reasignación de grupos en la matrícula",
+      "Cambio de clase dentro de una asignatura"
+    ],
+    "respuesta": "El cambio de grupo debe solicitarse dentro del plazo habilitado para modificaciones de matrícula, previa autorización del coordinador de estudios y siempre que existan plazas disponibles."
+  },
+  {
+    "pregunta": "¿Cómo puedo solicitar una beca del Ministerio?",
+    "reformulaciones": [
+      "Solicitar beca MEFP",
+      "Trámite para pedir beca universitaria",
+      "Becas disponibles del Ministerio de Educación",
+      "Solicitud online de becas universitarias",
+      "Plazo para pedir beca del ministerio",
+      "Dónde presentar la solicitud de beca"
+    ],
+    "respuesta": "La solicitud de becas del Ministerio debe realizarse online a través de la sede electrónica del Ministerio de Educación durante el plazo oficial de convocatoria."
+  },
+  {
+    "pregunta": "¿Qué requisitos existen para optar a matrícula de honor?",
+    "reformulaciones": [
+      "Condiciones para obtener matrícula de honor",
+      "Nota mínima para matrícula de honor",
+      "Criterios de concesión de matrícula de honor",
+      "Requisitos académicos para MH",
+      "¿Cuándo se concede matrícula de honor?",
+      "Normativa de matrícula de honor"
+    ],
+    "respuesta": "La matrícula de honor se concede a los estudiantes que obtienen la máxima calificación en una asignatura, conforme a los criterios establecidos por el profesorado y la normativa del centro."
+  },
+  {
+    "pregunta": "¿Puedo anular una asignatura durante el curso?",
+    "reformulaciones": [
+      "Anulación de matrícula parcial",
+      "Renunciar a una asignatura matriculada",
+      "Procedimiento para anular asignaturas",
+      "¿Cómo cancelar una asignatura?",
+      "Baja parcial de matrícula",
+      "Renuncia a asignaturas durante el curso"
+    ],
+    "respuesta": "La anulación de asignaturas puede solicitarse dentro de los plazos establecidos por la universidad, siguiendo el procedimiento formal de modificación de matrícula."
+  },
+  {
+    "pregunta": "¿Qué documentación necesito para solicitar reconocimiento de prácticas?",
+    "reformulaciones": [
+      "Documentación para validar prácticas externas",
+      "Requisitos para reconocimiento de prácticas curriculares",
+      "Solicitar convalidación de prácticas profesionales",
+      "Acreditación de prácticas para reconocimiento",
+      "Papeles necesarios para homologar prácticas",
+      "Trámite de reconocimiento de experiencia profesional"
+    ],
+    "respuesta": "Para solicitar el reconocimiento de prácticas es necesario presentar la documentación que acredite la experiencia profesional, incluyendo certificados de empresa, contratos laborales y memorias de actividades realizadas."
+  }  ,
+  {
+    "pregunta": "¿Cómo puedo solicitar un duplicado del carnet universitario?",
+    "reformulaciones": [
+      "Pedir un nuevo carnet universitario",
+      "Duplicado del carnet de estudiante",
+      "Reponer carnet perdido",
+      "Solicitar copia del carnet CEU",
+      "Carnet universitario extraviado",
+      "Cómo renovar el carnet universitario"
+    ],
+    "respuesta": "El duplicado del carnet universitario puede solicitarse a través de la Secretaría Virtual o presencialmente en la secretaría del centro, aportando la documentación requerida."
+  },
+  {
+    "pregunta": "¿Dónde puedo consultar el calendario académico?",
+    "reformulaciones": [
+      "Ver el calendario de clases y exámenes",
+      "Consultar fechas del curso académico",
+      "Calendario de cursos y evaluaciones",
+      "Horario general del año académico",
+      "Fechas clave del curso",
+      "Acceso al calendario oficial"
+    ],
+    "respuesta": "El calendario académico está disponible en la página web oficial de la universidad y en la Secretaría Virtual, actualizado para cada curso académico."
+  },
+  {
+    "pregunta": "¿Qué trámites debo realizar para solicitar un traslado de expediente?",
+    "reformulaciones": [
+      "Procedimiento de traslado de expediente",
+      "Solicitar cambio de universidad",
+      "Trámites para trasladar expediente académico",
+      "Requisitos para traslado de expediente",
+      "Documentación para cambio de centro universitario",
+      "Cómo solicitar el traslado del expediente"
+    ],
+    "respuesta": "Para solicitar el traslado de expediente es necesario presentar la solicitud oficial en la secretaría del centro, acompañada de la documentación justificativa exigida por la normativa vigente."
+  },
+  {
+    "pregunta": "¿Cuándo se publican las notas finales de las asignaturas?",
+    "reformulaciones": [
+      "Publicación de calificaciones finales",
+      "¿En qué fecha salen las notas?",
+      "Consulta de resultados de evaluación",
+      "Disponibilidad de las notas de fin de curso",
+      "Publicación de actas de calificaciones",
+      "Notas definitivas de asignaturas"
+    ],
+    "respuesta": "Las calificaciones finales se publican en la Secretaría Virtual en las fechas establecidas por el calendario académico oficial."
+  },
+  {
+    "pregunta": "¿Cuál es el plazo para solicitar título oficial una vez finalizados los estudios?",
+    "reformulaciones": [
+      "Trámite para solicitar el título universitario",
+      "Solicitar expedición de título oficial",
+      "Tiempo para pedir el título tras acabar la carrera",
+      "Solicitud de título universitario CEU",
+      "Proceso para obtener el título tras graduarse",
+      "Gestión de expedición de título"
+    ],
+    "respuesta": "La solicitud de expedición del título puede realizarse una vez se hayan superado todos los créditos del plan de estudios, a través de la Secretaría Virtual o directamente en la secretaría administrativa del centro."
+  }  
+]
+
+
+
+

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Información útil - Facultad de Económicas</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <!-- Franja blanca superior con logo alineado a la izquierda -->
+  <div class="top-white-bar">
+    <img src="logo-uspceu.svg" alt="Logo CEU" class="logo" />
+  </div>
+
+  <!-- Franja azul inferior con texto -->
+  <header class="top-blue-bar">
+    <span>Información útil - Facultad de Económicas</span>
+  </header>
+
+  <main class="main">
+    <section class="chatbox">
+      <label for="pregunta">Haz tu pregunta:</label>
+      <input
+        type="text"
+        id="pregunta"
+        placeholder="Haz tu pregunta sobre información académica del CEU"
+      />
+      <button onclick="enviarPregunta()">Preguntar</button>
+      <div id="respuesta" class="respuesta"></div>
+    </section>
+  </main>
+
+  <footer class="footer-ceu">
+    <div class="footer-container">
+      <div class="footer-logo">
+        <img src="logo-monocolor.svg" alt="Logo CEU" class="logo" />
+      </div>
+      <div class="footer-columns">
+        <div>
+          <h4>Sobre el CEU</h4>
+          <ul>
+            <li>Blog USP</li>
+            <li>Tienda CEU</li>
+            <li>Buzón de sugerencias</li>
+          </ul>
+        </div>
+        <div>
+          <h4>CEU Emplea</h4>
+          <ul>
+            <li>Trabaja con nosotros</li>
+            <li>Canal Ético</li>
+          </ul>
+        </div>
+        <div>
+          <h4>Información legal</h4>
+          <ul>
+            <li>Aviso legal</li>
+            <li>Política de privacidad</li>
+            <li>Política de cookies</li>
+          </ul>
+        </div>
+        <div>
+          <h4>Centros</h4>
+          <ul>
+            <li>CEU Valencia</li>
+            <li>CEU Barcelona</li>
+            <li>CEU Sevilla</li>
+            <li>CEU FP Madrid</li>
+          </ul>
+        </div>
+      </div>
+      <p class="footer-copy">©2025. Universidad CEU San Pablo</p>
+    </div>
+  </footer>
+
+  <script src="main.js"></script>
+</body>
+</html>

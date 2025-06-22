@@ -1,0 +1,742 @@
+[
+  {
+    "pregunta": "¿Cuántos créditos tiene el TFG?",
+    "respuesta": "El TFG tiene 6 créditos ECTS.",
+    "categoria": "directa"
+  },
+  {
+    "pregunta": "¿De cuántos créditos es el trabajo final?",
+    "respuesta": "El TFG tiene 6 créditos ECTS.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "¿Cuántos ECTS suma el TFG?",
+    "respuesta": "El TFG tiene 6 créditos ECTS.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Créditos asignados al trabajo fin de grado",
+    "respuesta": "El TFG tiene 6 créditos ECTS.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Número de créditos del TFG",
+    "respuesta": "El TFG tiene 6 créditos ECTS.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "TFG cuántos créditos tiene",
+    "respuesta": "El TFG tiene 6 créditos ECTS.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Créditos correspondientes al trabajo fin de grado",
+    "respuesta": "El TFG tiene 6 créditos ECTS.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "¿Cuánto pesa un pingüino gallego?",
+    "respuesta": null,
+    "categoria": "trampa"
+  },
+  {
+    "pregunta": "¿El TFG tiene 12 créditos o son más?",
+    "respuesta": "El TFG tiene 6 créditos ECTS.",
+    "categoria": "directa"
+  },
+  {
+    "pregunta": "¿Puedo hacer la matrícula después de octubre?",
+    "respuesta": null,
+    "categoria": "trampa"
+  },
+  {
+    "pregunta": "¿Dónde está la cafetería del CEU en Marte?",
+    "respuesta": null,
+    "categoria": "trampa"
+  },
+  {
+    "pregunta": "¿Cómo solicito las prácticas si ya he terminado todas las asignaturas?",
+    "respuesta": "La gestión de las prácticas externas se realiza a través de la plataforma de gestión de prácticas de la universidad, donde se publican las ofertas disponibles y se formaliza la inscripción.",
+    "categoria": "directa"
+  },
+  {
+    "pregunta": "¿Qué hago si me suspende Thor en economía?",
+    "respuesta": "Si suspendes una asignatura, puedes volver a matricularte en la siguiente convocatoria disponible. Existen límites en el número de convocatorias, establecidos por la normativa académica.",
+    "categoria": "directa"
+  },
+  {
+    "pregunta": "Zxykç 123 !!! ### ???",
+    "respuesta": null,
+    "categoria": "trampa"
+  },
+  {
+    "pregunta": "Necesito el certificado de matrícula para el banco",
+    "respuesta": "El certificado académico puede solicitarse a través de la Secretaría Virtual de la universidad o presencialmente en la secretaría del centro.",
+    "categoria": "directa"
+  },
+  {
+    "pregunta": "¿Cuántos créditos hay que cursar en total para graduarse?",
+    "respuesta": "Para graduarse es necesario superar un total de 240 créditos ECTS.",
+    "categoria": "directa"
+  },
+  {
+    "pregunta": "Total de créditos para obtener el título",
+    "respuesta": "Para graduarse es necesario superar un total de 240 créditos ECTS.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "¿Cuántos ECTS necesito para terminar la carrera?",
+    "respuesta": "Para graduarse es necesario superar un total de 240 créditos ECTS.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Créditos necesarios para acabar el grado",
+    "respuesta": "Para graduarse es necesario superar un total de 240 créditos ECTS.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Número total de ECTS para graduarse",
+    "respuesta": "Para graduarse es necesario superar un total de 240 créditos ECTS.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "¿Qué cantidad de créditos exige el plan de estudios?",
+    "respuesta": "Para graduarse es necesario superar un total de 240 créditos ECTS.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Carga total de créditos para obtener el título",
+    "respuesta": "Para graduarse es necesario superar un total de 240 créditos ECTS.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "¿Cuándo empieza el periodo de matrícula?",
+    "respuesta": "El periodo de matrícula suele comenzar a principios de julio, en función del calendario académico publicado anualmente.",
+    "categoria": "directa"
+  },
+  {
+    "pregunta": "Inicio del plazo de matrícula",
+    "respuesta": "El periodo de matrícula suele comenzar a principios de julio, en función del calendario académico publicado anualmente.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "¿Desde qué fecha puedo matricularme?",
+    "respuesta": "El periodo de matrícula suele comenzar a principios de julio, en función del calendario académico publicado anualmente.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Apertura de la matrícula",
+    "respuesta": "El periodo de matrícula suele comenzar a principios de julio, en función del calendario académico publicado anualmente.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Primer día para realizar la matrícula",
+    "respuesta": "El periodo de matrícula suele comenzar a principios de julio, en función del calendario académico publicado anualmente.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "¿En qué fecha se abre el periodo de matrícula?",
+    "respuesta": "El periodo de matrícula suele comenzar a principios de julio, en función del calendario académico publicado anualmente.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "¿Cuándo puedo empezar a matricularme?",
+    "respuesta": "El periodo de matrícula suele comenzar a principios de julio, en función del calendario académico publicado anualmente.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "¿Cómo puedo solicitar un certificado académico?",
+    "respuesta": "El certificado académico puede solicitarse a través de la Secretaría Virtual de la universidad o presencialmente en la secretaría del centro.",
+    "categoria": "directa"
+  },
+  {
+    "pregunta": "Pedir certificado de notas",
+    "respuesta": "El certificado académico puede solicitarse a través de la Secretaría Virtual de la universidad o presencialmente en la secretaría del centro.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Solicitar expediente académico oficial",
+    "respuesta": "El certificado académico puede solicitarse a través de la Secretaría Virtual de la universidad o presencialmente en la secretaría del centro.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "¿Dónde puedo pedir el certificado de calificaciones?",
+    "respuesta": "El certificado académico puede solicitarse a través de la Secretaría Virtual de la universidad o presencialmente en la secretaría del centro.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Petición de certificado académico",
+    "respuesta": "El certificado académico puede solicitarse a través de la Secretaría Virtual de la universidad o presencialmente en la secretaría del centro.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Trámite para obtener el expediente oficial",
+    "respuesta": "El certificado académico puede solicitarse a través de la Secretaría Virtual de la universidad o presencialmente en la secretaría del centro.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "¿Cómo tramito el certificado de estudios?",
+    "respuesta": "El certificado académico puede solicitarse a través de la Secretaría Virtual de la universidad o presencialmente en la secretaría del centro.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "¿Qué sucede si suspendo una asignatura?",
+    "respuesta": "Si suspendes una asignatura, puedes volver a matricularte en la siguiente convocatoria disponible. Existen límites en el número de convocatorias, establecidos por la normativa académica.",
+    "categoria": "directa"
+  },
+  {
+    "pregunta": "Consecuencias de suspender una asignatura",
+    "respuesta": "Si suspendes una asignatura, puedes volver a matricularte en la siguiente convocatoria disponible. Existen límites en el número de convocatorias, establecidos por la normativa académica.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "¿Qué pasa si no apruebo una materia?",
+    "respuesta": "Si suspendes una asignatura, puedes volver a matricularte en la siguiente convocatoria disponible. Existen límites en el número de convocatorias, establecidos por la normativa académica.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Suspender una asignatura y convocatorias",
+    "respuesta": "Si suspendes una asignatura, puedes volver a matricularte en la siguiente convocatoria disponible. Existen límites en el número de convocatorias, establecidos por la normativa académica.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Número de convocatorias tras suspender",
+    "respuesta": "Si suspendes una asignatura, puedes volver a matricularte en la siguiente convocatoria disponible. Existen límites en el número de convocatorias, establecidos por la normativa académica.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "¿Qué ocurre si suspendo?",
+    "respuesta": "Si suspendes una asignatura, puedes volver a matricularte en la siguiente convocatoria disponible. Existen límites en el número de convocatorias, establecidos por la normativa académica.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Si suspendo una asignatura ¿cuántas oportunidades tengo?",
+    "respuesta": "Si suspendes una asignatura, puedes volver a matricularte en la siguiente convocatoria disponible. Existen límites en el número de convocatorias, establecidos por la normativa académica.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "¿Cuántas asignaturas puedo matricular como máximo por curso?",
+    "respuesta": "El número máximo de asignaturas por curso está limitado por el total de créditos permitido según la carga docente anual establecida en el plan de estudios.",
+    "categoria": "directa"
+  },
+  {
+    "pregunta": "Límite de asignaturas por año académico",
+    "respuesta": "El número máximo de asignaturas por curso está limitado por el total de créditos permitido según la carga docente anual establecida en el plan de estudios.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Número máximo de materias por curso",
+    "respuesta": "El número máximo de asignaturas por curso está limitado por el total de créditos permitido según la carga docente anual establecida en el plan de estudios.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "¿Cuántas asignaturas es posible cursar en un año?",
+    "respuesta": "El número máximo de asignaturas por curso está limitado por el total de créditos permitido según la carga docente anual establecida en el plan de estudios.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Tope de asignaturas en la matrícula anual",
+    "respuesta": "El número máximo de asignaturas por curso está limitado por el total de créditos permitido según la carga docente anual establecida en el plan de estudios.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Máximo de asignaturas permitidas por curso",
+    "respuesta": "El número máximo de asignaturas por curso está limitado por el total de créditos permitido según la carga docente anual establecida en el plan de estudios.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Cantidad máxima de créditos por año",
+    "respuesta": "El número máximo de asignaturas por curso está limitado por el total de créditos permitido según la carga docente anual establecida en el plan de estudios.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "¿Cómo puedo solicitar el reconocimiento de créditos?",
+    "respuesta": "La solicitud de reconocimiento de créditos debe realizarse a través del procedimiento establecido en la Secretaría Virtual, aportando la documentación correspondiente.",
+    "categoria": "directa"
+  },
+  {
+    "pregunta": "Reconocer asignaturas previamente cursadas",
+    "respuesta": "La solicitud de reconocimiento de créditos debe realizarse a través del procedimiento establecido en la Secretaría Virtual, aportando la documentación correspondiente.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Solicitud de convalidación de créditos",
+    "respuesta": "La solicitud de reconocimiento de créditos debe realizarse a través del procedimiento establecido en la Secretaría Virtual, aportando la documentación correspondiente.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "¿Dónde pido reconocimiento de asignaturas?",
+    "respuesta": "La solicitud de reconocimiento de créditos debe realizarse a través del procedimiento establecido en la Secretaría Virtual, aportando la documentación correspondiente.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Trámite de reconocimiento académico",
+    "respuesta": "La solicitud de reconocimiento de créditos debe realizarse a través del procedimiento establecido en la Secretaría Virtual, aportando la documentación correspondiente.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Homologación de créditos en la universidad",
+    "respuesta": "La solicitud de reconocimiento de créditos debe realizarse a través del procedimiento establecido en la Secretaría Virtual, aportando la documentación correspondiente.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Validación de estudios anteriores",
+    "respuesta": "La solicitud de reconocimiento de créditos debe realizarse a través del procedimiento establecido en la Secretaría Virtual, aportando la documentación correspondiente.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "¿Cuántas convocatorias tengo por asignatura?",
+    "respuesta": "El número de convocatorias por asignatura está limitado a seis. Superado ese número, es necesario solicitar una convocatoria extraordinaria de gracia.",
+    "categoria": "directa"
+  },
+  {
+    "pregunta": "Número de intentos para aprobar una materia",
+    "respuesta": "El número de convocatorias por asignatura está limitado a seis. Superado ese número, es necesario solicitar una convocatoria extraordinaria de gracia.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Límite de oportunidades por asignatura",
+    "respuesta": "El número de convocatorias por asignatura está limitado a seis. Superado ese número, es necesario solicitar una convocatoria extraordinaria de gracia.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "¿Cuántas veces puedo presentarme a un examen?",
+    "respuesta": "El número de convocatorias por asignatura está limitado a seis. Superado ese número, es necesario solicitar una convocatoria extraordinaria de gracia.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Convocatorias máximas por materia",
+    "respuesta": "El número de convocatorias por asignatura está limitado a seis. Superado ese número, es necesario solicitar una convocatoria extraordinaria de gracia.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Plazas disponibles para aprobar asignaturas",
+    "respuesta": "El número de convocatorias por asignatura está limitado a seis. Superado ese número, es necesario solicitar una convocatoria extraordinaria de gracia.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Veces que puedo presentarme a la misma asignatura",
+    "respuesta": "El número de convocatorias por asignatura está limitado a seis. Superado ese número, es necesario solicitar una convocatoria extraordinaria de gracia.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "¿Cómo se solicita la revisión de un examen?",
+    "respuesta": "La solicitud de revisión de examen debe realizarse en el plazo establecido tras la publicación de las calificaciones, siguiendo el procedimiento publicado por el centro.",
+    "categoria": "directa"
+  },
+  {
+    "pregunta": "Revisión de calificaciones",
+    "respuesta": "La solicitud de revisión de examen debe realizarse en el plazo establecido tras la publicación de las calificaciones, siguiendo el procedimiento publicado por el centro.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "¿Dónde pedir revisión de examen?",
+    "respuesta": "La solicitud de revisión de examen debe realizarse en el plazo establecido tras la publicación de las calificaciones, siguiendo el procedimiento publicado por el centro.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Procedimiento para revisar un examen",
+    "respuesta": "La solicitud de revisión de examen debe realizarse en el plazo establecido tras la publicación de las calificaciones, siguiendo el procedimiento publicado por el centro.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Solicitud de revisión de nota",
+    "respuesta": "La solicitud de revisión de examen debe realizarse en el plazo establecido tras la publicación de las calificaciones, siguiendo el procedimiento publicado por el centro.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Plazos para solicitar revisión de calificación",
+    "respuesta": "La solicitud de revisión de examen debe realizarse en el plazo establecido tras la publicación de las calificaciones, siguiendo el procedimiento publicado por el centro.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Pasos para pedir revisión de examen",
+    "respuesta": "La solicitud de revisión de examen debe realizarse en el plazo establecido tras la publicación de las calificaciones, siguiendo el procedimiento publicado por el centro.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "¿Cómo se gestionan las prácticas externas?",
+    "respuesta": "La gestión de las prácticas externas se realiza a través de la plataforma de gestión de prácticas de la universidad, donde se publican las ofertas disponibles y se formaliza la inscripción.",
+    "categoria": "directa"
+  },
+  {
+    "pregunta": "Tramitación de prácticas externas",
+    "respuesta": "La gestión de las prácticas externas se realiza a través de la plataforma de gestión de prácticas de la universidad, donde se publican las ofertas disponibles y se formaliza la inscripción.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Cómo solicitar prácticas universitarias",
+    "respuesta": "La gestión de las prácticas externas se realiza a través de la plataforma de gestión de prácticas de la universidad, donde se publican las ofertas disponibles y se formaliza la inscripción.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Procedimiento de prácticas académicas",
+    "respuesta": "La gestión de las prácticas externas se realiza a través de la plataforma de gestión de prácticas de la universidad, donde se publican las ofertas disponibles y se formaliza la inscripción.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Inscripción en prácticas externas",
+    "respuesta": "La gestión de las prácticas externas se realiza a través de la plataforma de gestión de prácticas de la universidad, donde se publican las ofertas disponibles y se formaliza la inscripción.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Requisitos para realizar prácticas",
+    "respuesta": "La gestión de las prácticas externas se realiza a través de la plataforma de gestión de prácticas de la universidad, donde se publican las ofertas disponibles y se formaliza la inscripción.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Prácticas curriculares y extracurriculares",
+    "respuesta": "La gestión de las prácticas externas se realiza a través de la plataforma de gestión de prácticas de la universidad, donde se publican las ofertas disponibles y se formaliza la inscripción.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "¿Puedo cambiar de grupo de clase una vez matriculado?",
+    "respuesta": "El cambio de grupo debe solicitarse dentro del plazo habilitado para modificaciones de matrícula, previa autorización del coordinador de estudios y siempre que existan plazas disponibles.",
+    "categoria": "directa"
+  },
+  {
+    "pregunta": "Cambio de grupo tras matrícula",
+    "respuesta": "El cambio de grupo debe solicitarse dentro del plazo habilitado para modificaciones de matrícula, previa autorización del coordinador de estudios y siempre que existan plazas disponibles.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Modificar grupo de asignatura",
+    "respuesta": "El cambio de grupo debe solicitarse dentro del plazo habilitado para modificaciones de matrícula, previa autorización del coordinador de estudios y siempre que existan plazas disponibles.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "¿Cómo solicito cambio de grupo?",
+    "respuesta": "El cambio de grupo debe solicitarse dentro del plazo habilitado para modificaciones de matrícula, previa autorización del coordinador de estudios y siempre que existan plazas disponibles.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Procedimiento para cambiar de grupo",
+    "respuesta": "El cambio de grupo debe solicitarse dentro del plazo habilitado para modificaciones de matrícula, previa autorización del coordinador de estudios y siempre que existan plazas disponibles.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Reasignación de grupos en la matrícula",
+    "respuesta": "El cambio de grupo debe solicitarse dentro del plazo habilitado para modificaciones de matrícula, previa autorización del coordinador de estudios y siempre que existan plazas disponibles.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Cambio de clase dentro de una asignatura",
+    "respuesta": "El cambio de grupo debe solicitarse dentro del plazo habilitado para modificaciones de matrícula, previa autorización del coordinador de estudios y siempre que existan plazas disponibles.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "¿Cómo puedo solicitar una beca del Ministerio?",
+    "respuesta": "La solicitud de becas del Ministerio debe realizarse online a través de la sede electrónica del Ministerio de Educación durante el plazo oficial de convocatoria.",
+    "categoria": "directa"
+  },
+  {
+    "pregunta": "Solicitar beca MEFP",
+    "respuesta": "La solicitud de becas del Ministerio debe realizarse online a través de la sede electrónica del Ministerio de Educación durante el plazo oficial de convocatoria.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Trámite para pedir beca universitaria",
+    "respuesta": "La solicitud de becas del Ministerio debe realizarse online a través de la sede electrónica del Ministerio de Educación durante el plazo oficial de convocatoria.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Becas disponibles del Ministerio de Educación",
+    "respuesta": "La solicitud de becas del Ministerio debe realizarse online a través de la sede electrónica del Ministerio de Educación durante el plazo oficial de convocatoria.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Solicitud online de becas universitarias",
+    "respuesta": "La solicitud de becas del Ministerio debe realizarse online a través de la sede electrónica del Ministerio de Educación durante el plazo oficial de convocatoria.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Plazo para pedir beca del ministerio",
+    "respuesta": "La solicitud de becas del Ministerio debe realizarse online a través de la sede electrónica del Ministerio de Educación durante el plazo oficial de convocatoria.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Dónde presentar la solicitud de beca",
+    "respuesta": "La solicitud de becas del Ministerio debe realizarse online a través de la sede electrónica del Ministerio de Educación durante el plazo oficial de convocatoria.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "¿Qué requisitos existen para optar a matrícula de honor?",
+    "respuesta": "La matrícula de honor se concede a los estudiantes que obtienen la máxima calificación en una asignatura, conforme a los criterios establecidos por el profesorado y la normativa del centro.",
+    "categoria": "directa"
+  },
+  {
+    "pregunta": "Condiciones para obtener matrícula de honor",
+    "respuesta": "La matrícula de honor se concede a los estudiantes que obtienen la máxima calificación en una asignatura, conforme a los criterios establecidos por el profesorado y la normativa del centro.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Nota mínima para matrícula de honor",
+    "respuesta": "La matrícula de honor se concede a los estudiantes que obtienen la máxima calificación en una asignatura, conforme a los criterios establecidos por el profesorado y la normativa del centro.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Criterios de concesión de matrícula de honor",
+    "respuesta": "La matrícula de honor se concede a los estudiantes que obtienen la máxima calificación en una asignatura, conforme a los criterios establecidos por el profesorado y la normativa del centro.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Requisitos académicos para MH",
+    "respuesta": "La matrícula de honor se concede a los estudiantes que obtienen la máxima calificación en una asignatura, conforme a los criterios establecidos por el profesorado y la normativa del centro.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "¿Cuándo se concede matrícula de honor?",
+    "respuesta": "La matrícula de honor se concede a los estudiantes que obtienen la máxima calificación en una asignatura, conforme a los criterios establecidos por el profesorado y la normativa del centro.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Normativa de matrícula de honor",
+    "respuesta": "La matrícula de honor se concede a los estudiantes que obtienen la máxima calificación en una asignatura, conforme a los criterios establecidos por el profesorado y la normativa del centro.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "¿Puedo anular una asignatura durante el curso?",
+    "respuesta": "La anulación de asignaturas puede solicitarse dentro de los plazos establecidos por la universidad, siguiendo el procedimiento formal de modificación de matrícula.",
+    "categoria": "directa"
+  },
+  {
+    "pregunta": "Anulación de matrícula parcial",
+    "respuesta": "La anulación de asignaturas puede solicitarse dentro de los plazos establecidos por la universidad, siguiendo el procedimiento formal de modificación de matrícula.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Renunciar a una asignatura matriculada",
+    "respuesta": "La anulación de asignaturas puede solicitarse dentro de los plazos establecidos por la universidad, siguiendo el procedimiento formal de modificación de matrícula.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Procedimiento para anular asignaturas",
+    "respuesta": "La anulación de asignaturas puede solicitarse dentro de los plazos establecidos por la universidad, siguiendo el procedimiento formal de modificación de matrícula.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "¿Cómo cancelar una asignatura?",
+    "respuesta": "La anulación de asignaturas puede solicitarse dentro de los plazos establecidos por la universidad, siguiendo el procedimiento formal de modificación de matrícula.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Baja parcial de matrícula",
+    "respuesta": "La anulación de asignaturas puede solicitarse dentro de los plazos establecidos por la universidad, siguiendo el procedimiento formal de modificación de matrícula.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Renuncia a asignaturas durante el curso",
+    "respuesta": "La anulación de asignaturas puede solicitarse dentro de los plazos establecidos por la universidad, siguiendo el procedimiento formal de modificación de matrícula.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "¿Qué documentación necesito para solicitar reconocimiento de prácticas?",
+    "respuesta": "Para solicitar el reconocimiento de prácticas es necesario presentar la documentación que acredite la experiencia profesional, incluyendo certificados de empresa, contratos laborales y memorias de actividades realizadas.",
+    "categoria": "directa"
+  },
+  {
+    "pregunta": "Documentación para validar prácticas externas",
+    "respuesta": "Para solicitar el reconocimiento de prácticas es necesario presentar la documentación que acredite la experiencia profesional, incluyendo certificados de empresa, contratos laborales y memorias de actividades realizadas.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Requisitos para reconocimiento de prácticas curriculares",
+    "respuesta": "Para solicitar el reconocimiento de prácticas es necesario presentar la documentación que acredite la experiencia profesional, incluyendo certificados de empresa, contratos laborales y memorias de actividades realizadas.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Solicitar convalidación de prácticas profesionales",
+    "respuesta": "Para solicitar el reconocimiento de prácticas es necesario presentar la documentación que acredite la experiencia profesional, incluyendo certificados de empresa, contratos laborales y memorias de actividades realizadas.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Acreditación de prácticas para reconocimiento",
+    "respuesta": "Para solicitar el reconocimiento de prácticas es necesario presentar la documentación que acredite la experiencia profesional, incluyendo certificados de empresa, contratos laborales y memorias de actividades realizadas.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Papeles necesarios para homologar prácticas",
+    "respuesta": "Para solicitar el reconocimiento de prácticas es necesario presentar la documentación que acredite la experiencia profesional, incluyendo certificados de empresa, contratos laborales y memorias de actividades realizadas.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Trámite de reconocimiento de experiencia profesional",
+    "respuesta": "Para solicitar el reconocimiento de prácticas es necesario presentar la documentación que acredite la experiencia profesional, incluyendo certificados de empresa, contratos laborales y memorias de actividades realizadas.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "¿Cómo puedo solicitar un duplicado del carnet universitario?",
+    "respuesta": "El duplicado del carnet universitario puede solicitarse a través de la Secretaría Virtual o presencialmente en la secretaría del centro, aportando la documentación requerida.",
+    "categoria": "directa"
+  },
+  {
+    "pregunta": "Pedir un nuevo carnet universitario",
+    "respuesta": "El duplicado del carnet universitario puede solicitarse a través de la Secretaría Virtual o presencialmente en la secretaría del centro, aportando la documentación requerida.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Duplicado del carnet de estudiante",
+    "respuesta": "El duplicado del carnet universitario puede solicitarse a través de la Secretaría Virtual o presencialmente en la secretaría del centro, aportando la documentación requerida.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Reponer carnet perdido",
+    "respuesta": "El duplicado del carnet universitario puede solicitarse a través de la Secretaría Virtual o presencialmente en la secretaría del centro, aportando la documentación requerida.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Solicitar copia del carnet CEU",
+    "respuesta": "El duplicado del carnet universitario puede solicitarse a través de la Secretaría Virtual o presencialmente en la secretaría del centro, aportando la documentación requerida.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Carnet universitario extraviado",
+    "respuesta": "El duplicado del carnet universitario puede solicitarse a través de la Secretaría Virtual o presencialmente en la secretaría del centro, aportando la documentación requerida.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Cómo renovar el carnet universitario",
+    "respuesta": "El duplicado del carnet universitario puede solicitarse a través de la Secretaría Virtual o presencialmente en la secretaría del centro, aportando la documentación requerida.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "¿Dónde puedo consultar el calendario académico?",
+    "respuesta": "El calendario académico está disponible en la página web oficial de la universidad y en la Secretaría Virtual, actualizado para cada curso académico.",
+    "categoria": "directa"
+  },
+  {
+    "pregunta": "Ver el calendario de clases y exámenes",
+    "respuesta": "El calendario académico está disponible en la página web oficial de la universidad y en la Secretaría Virtual, actualizado para cada curso académico.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Consultar fechas del curso académico",
+    "respuesta": "El calendario académico está disponible en la página web oficial de la universidad y en la Secretaría Virtual, actualizado para cada curso académico.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Calendario de cursos y evaluaciones",
+    "respuesta": "El calendario académico está disponible en la página web oficial de la universidad y en la Secretaría Virtual, actualizado para cada curso académico.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Horario general del año académico",
+    "respuesta": "El calendario académico está disponible en la página web oficial de la universidad y en la Secretaría Virtual, actualizado para cada curso académico.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Fechas clave del curso",
+    "respuesta": "El calendario académico está disponible en la página web oficial de la universidad y en la Secretaría Virtual, actualizado para cada curso académico.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Acceso al calendario oficial",
+    "respuesta": "El calendario académico está disponible en la página web oficial de la universidad y en la Secretaría Virtual, actualizado para cada curso académico.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "¿Qué trámites debo realizar para solicitar un traslado de expediente?",
+    "respuesta": "Para solicitar el traslado de expediente es necesario presentar la solicitud oficial en la secretaría del centro, acompañada de la documentación justificativa exigida por la normativa vigente.",
+    "categoria": "directa"
+  },
+  {
+    "pregunta": "Procedimiento de traslado de expediente",
+    "respuesta": "Para solicitar el traslado de expediente es necesario presentar la solicitud oficial en la secretaría del centro, acompañada de la documentación justificativa exigida por la normativa vigente.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Solicitar cambio de universidad",
+    "respuesta": "Para solicitar el traslado de expediente es necesario presentar la solicitud oficial en la secretaría del centro, acompañada de la documentación justificativa exigida por la normativa vigente.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Trámites para trasladar expediente académico",
+    "respuesta": "Para solicitar el traslado de expediente es necesario presentar la solicitud oficial en la secretaría del centro, acompañada de la documentación justificativa exigida por la normativa vigente.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Requisitos para traslado de expediente",
+    "respuesta": "Para solicitar el traslado de expediente es necesario presentar la solicitud oficial en la secretaría del centro, acompañada de la documentación justificativa exigida por la normativa vigente.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Documentación para cambio de centro universitario",
+    "respuesta": "Para solicitar el traslado de expediente es necesario presentar la solicitud oficial en la secretaría del centro, acompañada de la documentación justificativa exigida por la normativa vigente.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Cómo solicitar el traslado del expediente",
+    "respuesta": "Para solicitar el traslado de expediente es necesario presentar la solicitud oficial en la secretaría del centro, acompañada de la documentación justificativa exigida por la normativa vigente.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "¿Cuándo se publican las notas finales de las asignaturas?",
+    "respuesta": "Las calificaciones finales se publican en la Secretaría Virtual en las fechas establecidas por el calendario académico oficial.",
+    "categoria": "directa"
+  },
+  {
+    "pregunta": "Publicación de calificaciones finales",
+    "respuesta": "Las calificaciones finales se publican en la Secretaría Virtual en las fechas establecidas por el calendario académico oficial.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "¿En qué fecha salen las notas?",
+    "respuesta": "Las calificaciones finales se publican en la Secretaría Virtual en las fechas establecidas por el calendario académico oficial.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Consulta de resultados de evaluación",
+    "respuesta": "Las calificaciones finales se publican en la Secretaría Virtual en las fechas establecidas por el calendario académico oficial.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Disponibilidad de las notas de fin de curso",
+    "respuesta": "Las calificaciones finales se publican en la Secretaría Virtual en las fechas establecidas por el calendario académico oficial.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Publicación de actas de calificaciones",
+    "respuesta": "Las calificaciones finales se publican en la Secretaría Virtual en las fechas establecidas por el calendario académico oficial.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Notas definitivas de asignaturas",
+    "respuesta": "Las calificaciones finales se publican en la Secretaría Virtual en las fechas establecidas por el calendario académico oficial.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "¿Cuál es el plazo para solicitar título oficial una vez finalizados los estudios?",
+    "respuesta": "La solicitud de expedición del título puede realizarse una vez se hayan superado todos los créditos del plan de estudios, a través de la Secretaría Virtual o directamente en la secretaría administrativa del centro.",
+    "categoria": "directa"
+  },
+  {
+    "pregunta": "Trámite para solicitar el título universitario",
+    "respuesta": "La solicitud de expedición del título puede realizarse una vez se hayan superado todos los créditos del plan de estudios, a través de la Secretaría Virtual o directamente en la secretaría administrativa del centro.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Solicitar expedición de título oficial",
+    "respuesta": "La solicitud de expedición del título puede realizarse una vez se hayan superado todos los créditos del plan de estudios, a través de la Secretaría Virtual o directamente en la secretaría administrativa del centro.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Tiempo para pedir el título tras acabar la carrera",
+    "respuesta": "La solicitud de expedición del título puede realizarse una vez se hayan superado todos los créditos del plan de estudios, a través de la Secretaría Virtual o directamente en la secretaría administrativa del centro.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Solicitud de título universitario CEU",
+    "respuesta": "La solicitud de expedición del título puede realizarse una vez se hayan superado todos los créditos del plan de estudios, a través de la Secretaría Virtual o directamente en la secretaría administrativa del centro.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Proceso para obtener el título tras graduarse",
+    "respuesta": "La solicitud de expedición del título puede realizarse una vez se hayan superado todos los créditos del plan de estudios, a través de la Secretaría Virtual o directamente en la secretaría administrativa del centro.",
+    "categoria": "reformulada"
+  },
+  {
+    "pregunta": "Gestión de expedición de título",
+    "respuesta": "La solicitud de expedición del título puede realizarse una vez se hayan superado todos los créditos del plan de estudios, a través de la Secretaría Virtual o directamente en la secretaría administrativa del centro.",
+    "categoria": "reformulada"
+  }
+]
