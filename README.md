@@ -11,21 +11,21 @@ El objetivo del proyecto es crear un sistema conversacional que permita a los al
 ## 📁 Estructura del repositorio
 
 TFG/
-├── TFG-Embeddings/ # Chatbot usando embeddings y búsqueda semántica con ChromaDB
-│ ├── chatbot/
-│ │ ├── api.py
-│ │ └── faq_data.json
-│ └── web/ # Interfaz web HTML/CSS
-├── TFG-Spacy/ # Chatbot basado en spaCy y similitud de texto
+├── TFG-Embeddings/
 │ ├── chatbot/
 │ │ ├── api.py
 │ │ └── faq_data.json
 │ └── web/
-├── TFG-Tester/ # Script comparador entre ambos métodos
+├── TFG-Spacy/
+│ ├── chatbot/
+│ │ ├── api.py
+│ │ └── faq_data.json
+│ └── web/
+├── TFG-Tester/
 │ ├── dataset_enriquecido.json
 │ └── tester_comparativo.py
-├── data/ # Datos adicionales (por ejemplo, documentos útiles)
-├── Word/ # Documento del TFG
+├── data/
+├── Word/
 └── README.md
 ---
 
