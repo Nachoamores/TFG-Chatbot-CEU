@@ -15,7 +15,7 @@ TFG/
 │ ├── chatbot/
 │ │ ├── api.py
 │ │ └── faq_data.json
-│ └── web/
+│ └── web/ # Interfaz web HTML/CSS
 ├── TFG-Spacy/ # Chatbot basado en spaCy y similitud de texto
 │ ├── chatbot/
 │ │ ├── api.py
@@ -24,10 +24,9 @@ TFG/
 ├── TFG-Tester/ # Script comparador entre ambos métodos
 │ ├── dataset_enriquecido.json
 │ └── tester_comparativo.py
-├── Word/ # Documento del TFG
 ├── data/ # Datos adicionales (por ejemplo, documentos útiles)
+├── Word/ # Documento del TFG
 └── README.md
-
 ---
 
 ## ⚙️ Tecnologías utilizadas
@@ -65,7 +64,18 @@ Estas métricas permiten evaluar cuál de las dos versiones ofrece mejores resul
 
 ---
 
+
+## 🚀 Futuras mejoras
+
+- **🧹 Eliminación de código redundante**: Unificar y refactorizar funciones duplicadas para mejorar la mantenibilidad del código.
+
+- **📊 Sistema de logs y analítica**: Incorporar métricas de uso, estadísticas y visualizaciones para analizar el comportamiento de los usuarios y la eficacia de las respuestas.
+
+- **🔗 Integración con servicios del CEU**: Conectar el chatbot con bases de datos oficiales o APIs del CEU (horarios, secretaría, matrícula...) para dar respuestas en tiempo real basadas en información actualizada.
+
 ## 🖥️ Cómo ejecutar el proyecto
+
+---
 
 1. Clona el repositorio:
    ```bash
