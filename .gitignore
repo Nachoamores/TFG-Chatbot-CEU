@@ -1,8 +1,9 @@
-venv/
-__pycache__/
-*.pyc
-*.pyo
+TFG-Embeddings/venv/
+TFG-Spacy/venv/
+*.dll
 *.pyd
+*.lib
 *.tmp
 *.log
+__pycache__/
 
